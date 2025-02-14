@@ -8,3 +8,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: Arizon;
+  src: url(./components/fonts/ARIZON.otf);
+}
+
+.arizon {
+  font-family: "Arizon";
+}
