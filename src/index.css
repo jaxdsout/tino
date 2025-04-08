@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #b1ccd4;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -16,4 +16,40 @@ code {
 
 .arizon {
   font-family: "Arizon";
+}
+
+.auto-scrollbar {
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: white transparent;
+}
+
+
+
+.image-wrap img {
+  animation: move 40s ease infinite;  
+  -ms-animation: move 40s ease;
+  -webkit-animation: move 40s ease;
+  -moz-animation: move 40s ease;
+  position: absolute;
+}
+
+@keyframes move {
+  0% {
+    -webkit-transform-origin: bottom left;
+    -moz-transform-origin: bottom left;
+    -ms-transform-origin: bottom left;
+    -o-transform-origin: bottom left;
+    transform-origin: bottom left;
+    transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+  }
+  100% {
+    transform: scale(1.075);
+    -ms-transform: scale(1.075);    
+    -webkit-transform: scale(1.075);
+    -moz-transform: scale(1.075);
+  }
 }
