@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e78d3f45.css",
-    "main.js": "/static/js/main.65d8b156.js",
-    "static/media/background2.JPEG": "/static/media/background2.457f894393fa00849bb1.JPEG",
-    "static/media/background1.JPEG": "/static/media/background1.e7dfcfec77674ebd8f39.JPEG",
-    "static/media/instagram.png": "/static/media/instagram.bb8a77bfaa323012e852.png",
-    "static/media/tiktok.png": "/static/media/tiktok.3391456026a2b9bd3795.png",
-    "static/media/vignette.avif": "/static/media/vignette.e49c93ecb308bbdd3c9a.avif",
-    "static/media/tidal.png": "/static/media/tidal.a163f66dffea20c505fb.png",
-    "static/media/spotify.png": "/static/media/spotify.bb3a3371dbfb3ce3e2cb.png",
-    "static/media/ARIZON.otf": "/static/media/ARIZON.2a289dcbc002177bd507.otf",
-    "static/media/linktree.png": "/static/media/linktree.8fa3c60a6a8bbc41d892.png",
-    "static/media/apple_music.svg": "/static/media/apple_music.ce798ae6b9a15a981448c4f1b9906b15.svg",
-    "index.html": "/index.html",
-    "main.e78d3f45.css.map": "/static/css/main.e78d3f45.css.map",
-    "main.65d8b156.js.map": "/static/js/main.65d8b156.js.map"
+    "main.css": "/tino/static/css/main.7a33028d.css",
+    "main.js": "/tino/static/js/main.77901b30.js",
+    "static/media/background2.JPEG": "/tino/static/media/background2.457f894393fa00849bb1.JPEG",
+    "static/media/background1.JPEG": "/tino/static/media/background1.e7dfcfec77674ebd8f39.JPEG",
+    "static/media/instagram.png": "/tino/static/media/instagram.bb8a77bfaa323012e852.png",
+    "static/media/tiktok.png": "/tino/static/media/tiktok.3391456026a2b9bd3795.png",
+    "static/media/vignette.avif": "/tino/static/media/vignette.e49c93ecb308bbdd3c9a.avif",
+    "static/media/tidal.png": "/tino/static/media/tidal.a163f66dffea20c505fb.png",
+    "static/media/spotify.png": "/tino/static/media/spotify.bb3a3371dbfb3ce3e2cb.png",
+    "static/media/ARIZON.otf": "/tino/static/media/ARIZON.2a289dcbc002177bd507.otf",
+    "static/media/linktree.png": "/tino/static/media/linktree.8fa3c60a6a8bbc41d892.png",
+    "static/media/apple_music.svg": "/tino/static/media/apple_music.ce798ae6b9a15a981448c4f1b9906b15.svg",
+    "index.html": "/tino/index.html",
+    "main.7a33028d.css.map": "/tino/static/css/main.7a33028d.css.map",
+    "main.77901b30.js.map": "/tino/static/js/main.77901b30.js.map"
   },
   "entrypoints": [
-    "static/css/main.e78d3f45.css",
-    "static/js/main.65d8b156.js"
+    "static/css/main.7a33028d.css",
+    "static/js/main.77901b30.js"
   ]
 }
