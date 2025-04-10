@@ -1,4 +1,4 @@
-# Upvalley
+# Tino
 
 Multi page web app for muscician
 
